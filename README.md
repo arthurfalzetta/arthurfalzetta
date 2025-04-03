@@ -12,6 +12,7 @@
 <div>
   <a href="https://github.com/arthurfalzetta">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfalzetta&layout=compact&langs_count=10&theme=dark"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img  align="center" alt="Arthur-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
